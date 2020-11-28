@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_APP1_Nick", "Console_APP1_Nick\Console_APP1_Nick.csproj", "{042DF5A0-F42A-42A0-9240-2A78E7AF89B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hameleon_bank", "Console_APP1_Nick\Hameleon_bank.csproj", "{042DF5A0-F42A-42A0-9240-2A78E7AF89B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
