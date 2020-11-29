@@ -11,7 +11,7 @@ namespace Console_APP1_Nick
             Console.WriteLine("Input choice functions number");
             int choice = Convert.ToInt32(Console.ReadLine());
             Random rnd = new Random();
-            while (choice != 0)
+            while (choice != 3)
             {
                 switch (choice)
                 {
