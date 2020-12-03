@@ -30,7 +30,6 @@ namespace Console_APP1_Nick
                         break;
                     case 2:
                         
-                        
                         Console.WriteLine("Accounts Numbers and its owners:");
                         foreach (KeyValuePair<int, string> keyValue in accountdata)
                         {
