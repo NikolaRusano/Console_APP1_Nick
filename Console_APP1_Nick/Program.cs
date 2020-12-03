@@ -36,11 +36,13 @@ namespace Console_APP1_Nick
                             Console.WriteLine(keyValue.Key + " - " + keyValue.Value);
 
                         }
+
                         break;
                     default:
                         Console.WriteLine("Inncorrect input, please input 1,2 or 3 value");
                         break;
                 }
+
                 Console.WriteLine("Input choice functions number");
                 choice = Convert.ToInt32(Console.ReadLine());
             }
