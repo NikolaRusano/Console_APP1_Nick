@@ -13,11 +13,6 @@ namespace Console_APP1_Nick
             Random rnd = new Random();
 
             Dictionary<int, string> accountdata = new Dictionary<int, string>(5);
-            //accountdata.Add(rnd.Next(), "Person1");
-            //accountdata.Add(rnd.Next(), "Person2");
-            //accountdata.Add(rnd.Next(), "Person3");
-            //accountdata.Add(rnd.Next(), "Person4");
-            //accountdata.Add(rnd.Next(), "Person5");
             while (choice != 3)
             {
 
