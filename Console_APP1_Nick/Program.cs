@@ -16,7 +16,6 @@ namespace Console_APP1_Nick
             while (choice != 3)
             {
 
-
                 switch (choice)
                 {
                     case 1:
